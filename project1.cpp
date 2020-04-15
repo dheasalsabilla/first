@@ -5,5 +5,5 @@ int main(){
 	int x;
 	int y;
 	double f;
-	cout << "Assalamualaikum"
+	cout << "Assalamualaikum hasil ubahan"
 }
